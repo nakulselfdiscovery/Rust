@@ -67,6 +67,10 @@ fn main() {
     }
     */
 
+    /*
+    There are no C-style for (int i = 0; i < n; ++i). Ranges and iterators cover all of its uses and are bounds-safe.
+    */
+
 }
 
 /*
